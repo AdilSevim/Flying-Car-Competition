@@ -41,6 +41,15 @@ The competition focuses on **autonomous flight algorithms**, strategic control, 
 
 ---
 
+## Team & Roles
+
+- **Team:** **HezarFen Team**  
+- **Code Authors:** Adil Sevim, Utku Özcan, Melek Serkaya, Cansu Melek Karpuz
+
+Our team comprises experienced members in **Python, algorithms, and Riders**, with tasks distributed to leverage individual strengths; coordination ensured consistent progress across reports and code.
+
+---
+
 ## Competition Context
 
 - Design and demonstrate **autonomous air traffic management**, **trajectory planning**, **inter-vehicle coordination**, **battery management**, and **robustness to non-ideal conditions** in realistic city scenarios.
@@ -136,8 +145,6 @@ All controllers follow a loop structured around:
 - **Sandbox design & testing** — covers landing zones, charging points, hospital areas, etc., designed to demonstrate the most challenging task variations within time-limited proof videos.  
 - **TR & EN (auto-translated)** — include both to maximize accessibility for reviewers.
 
-Place reports under each task’s `/reports` directory.
-
 ---
 
 ## Demo Video
@@ -151,15 +158,6 @@ A demonstration is available on YouTube: **https://www.youtube.com/watch?v=cEvQ3
 To support future fairness, the **final (“master”) code** is approved for release in later years.  
 This repository provides the **previous version** that successfully completes **Task-2**, optimized for **speed and reliability**.  
 **Platform:** Riders · **Simulation:** Riders environment.
-
----
-
-## Team & Roles
-
-- **Team:** **HezarFen Team**  
-- **Code Authors:** Adil Sevim, Utku Özcan, Melek Serkaya, Cansu Melek Karpuz
-
-Our team comprises experienced members in **Python, algorithms, and Riders**, with tasks distributed to leverage individual strengths; coordination ensured consistent progress across reports and code.
 
 ---
 
@@ -189,18 +187,14 @@ A: See the license section below. If you adopt code, please retain the author cr
 
 ## License
 
-Add your preferred open-source license (e.g., **MIT**) here. If omitted, the repository defaults to “All rights reserved.”
+MIT Lisance
 
 ---
 
 ## Acknowledgements & Contact
 
-We thank the **Flying Car Simulation Competition** organizers and the **Riders** platform team for the environment and documentation.
+We thank the **Flying Car Simulation Competition** organizers and the **TEKNOFEST and Riders** platform team for the environment and documentation.
 
 **Contact:** For organizational queries, follow official announcements/channels from the committee. For technical questions about this repository, please open an issue or contact the authors.
 
 ---
-
-### Turkish Summary (Kısa)
-
-Bu depo, **Uçan Araba Simülasyon Yarışması** kapsamında hazırlanan Task-1 ve Task-2 kodları ile raporları içerir. Geliştirme ve testler **Riders** platformunda yapılmıştır. Nihai “master” sürüm gelecekte paylaşılacaktır; burada **Task-2’yi başarıyla tamamlayan** bir önceki sürüm paylaşılmaktadır.
