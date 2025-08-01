@@ -1,4 +1,4 @@
-# Flying Car Simulation (Riders) — HezarFen Team
+# Flying Car Simulation
 
 > Autonomous flight controllers, reports, and documentation for a Flying Car Simulation Competition.  
 > Built and tested on the **Riders** platform and simulation environment.
