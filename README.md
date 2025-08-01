@@ -49,30 +49,6 @@ The competition focuses on **autonomous flight algorithms**, strategic control, 
 
 ---
 
-## Repository Structure
-
-```
-.
-├── task1/
-│   ├── code/
-│   │   └── task1.py
-│   ├── reports/
-│   │   ├── PDR/                  # if applicable
-│   │   └── FDR/
-│   └── info/
-│       └── info.txt
-├── task2/
-│   ├── code/
-│   │   └── task2.py
-│   ├── reports/
-│   │   ├── PDR/
-│   │   └── FDR/
-│   └── info/
-│       └── info.txt
-└── competition/
-    └── flying_car_competition_specifications.pdf
-```
-
 > Place the **competition specifications** in `/competition` for easy reference.  
 > Keep both **TR** and **EN (auto-translated)** reports under each task’s `/reports` folder for accessibility.
 
