@@ -1,0 +1,9 @@
+Disclosure
+
+The final (“master”) version of this code has been approved for release in future years to help sustain fair competition. For the purposes of this repository, we are sharing the previous version, which successfully completes Task-2 and is optimized for speed and reliability.
+
+- Platform: Riders (code authored and tested on the Riders system)
+- Simulation: Riders simulation environment
+- Demo Video: https://www.youtube.com/watch?v=cEvQ3RQkKEs
+
+We wish you productive work and successful evaluations.

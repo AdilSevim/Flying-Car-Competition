@@ -1,0 +1,1 @@
+Information: This repository contains the controller we built as part of a Flying Car Simulation Competitions task-1. The implementation targets the simulation environment that was assigned to our team through the Code Riders system.
