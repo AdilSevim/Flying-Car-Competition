@@ -45,11 +45,11 @@ The competition focuses on **autonomous flight algorithms**, strategic control, 
 
 - **Team:** **HezarFen Team**  
 - **Code Authors:**
-- Adil Sevim
-- Utku Özcan
-- Melek Serkaya
-- Cansu Melek Karpuz
-
+    Adil Sevim
+    Utku Özcan
+    Melek Serkaya
+    Cansu Melek Karpuz
+    Songül Eserli (Advisor)
 Our team comprises experienced members in **Python, algorithms, and Riders**, with tasks distributed to leverage individual strengths; coordination ensured consistent progress across reports and code.
 
 ---
